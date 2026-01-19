@@ -23,4 +23,4 @@ Este repositorio contiene un estudio técnico profundo sobre la implementación 
 
 ## Contenido del Repositorio
 - `/documentacion`: Informe técnico detallado sobre la arquitectura del RTOS.
-- `/programas`: Ejemplos prácticos de implementación de tareas y gestión de memoria en ESP-IDF.
+- `/programas`: Un programa sobre la implementación de Memoria Virtual.
